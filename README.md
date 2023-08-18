@@ -57,7 +57,7 @@
 
 ## Sync Your Fork with the Original Repository
 
-8. **Fetch and Merge Upstream Changes:**
+9. **Fetch and Merge Upstream Changes:**
    - Fetch the latest changes from the original repository:
      ```bash
      git fetch upstream
@@ -68,7 +68,7 @@
      git merge upstream/main
      ```
 
-9. **Update Your Fork on GitHub:**
+10. **Update Your Fork on GitHub:**
    - Push the merged changes to your fork on GitHub:
      ```bash
      git push origin main
