@@ -1,5 +1,7 @@
 # Git Collaborative
 
+[Slides here](https://app.box.com/s/r356kxmp3yiwa96evgmpera7il9t4xyg)
+
 ## Fork, Clone, and Sync Your Fork
 
 1. **Fork the Repository:**
