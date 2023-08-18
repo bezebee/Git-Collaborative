@@ -18,7 +18,7 @@
      ```
    - Navigate to Your Repository:
      ```bash
-     cd WorkingRepo
+     cd projectName
      ```
 
 4. **Set Upstream Remote:**
