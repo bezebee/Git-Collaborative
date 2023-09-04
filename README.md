@@ -78,4 +78,4 @@
 
 | Date | Username | Input | Comment |
 | -- | -- | -- | -- |
-| 04.09.2023 | GeorginaCarlisle | Added this table to the readme | Really nice clear instructions and great communication for Kasia |
+| 04.09.2023 | GeorginaCarlisle | Added this table to the readme. Added and linked style.css file | Really nice clear instructions and great communication for Kasia. Thank you for the chance to practice. |
