@@ -10,3 +10,24 @@ main {
 h1 {
     text-align: center;
 }
+
+#doodle {
+    position: absolute;
+    display: inline;
+    bottom: 5vh;
+    right: 5vh;
+    animation: fade 5s steps(20,end) infinite;
+}
+
+/* Animation for fading text effect */
+@keyframes fade {
+    0%, 100% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+
+
+
