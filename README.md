@@ -73,3 +73,9 @@
      ```bash
      git push origin main
      ```
+
+## Collaborative Input
+
+| Date | Username | Input | Comment |
+| -- | -- | -- | -- |
+| 04.09.2023 | GeorginaCarlisle | Added this table to the readme | Really nice clear instructions and great communication for Kasia |
