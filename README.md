@@ -1,5 +1,5 @@
 # Git Collaborative
-## A small addition here by Deirdre McCarthy to test ##
+
 [Slides here](https://app.box.com/s/r356kxmp3yiwa96evgmpera7il9t4xyg)
 
 ## Fork, Clone, and Sync Your Fork
