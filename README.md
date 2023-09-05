@@ -5,13 +5,16 @@
 ## Fork, Clone, and Sync Your Fork
 
 1. **Fork the Repository:**
+
    - Click the "Fork" button on the upper right corner of the repository page. This creates your own copy of this repository.
 
 2. **Clone Your Fork**:
+
 - Create folder with VS Code,
 - Or just click the Green/Purple button with Cloud IDEs
-  
+
 3. **On VS Code**:
+
    - On your local machine, open a terminal.
    - Navigate to the folder where you want to clone the repository.
    - Clone your fork using the HTTPS URL:
@@ -32,12 +35,14 @@
 ## Make and Push Your Changes
 
 5. **Create a New Branch:**
+
    - Create a new branch in your local repository to work on your changes:
      ```bash
      git checkout -b your-branch-name
      ```
 
 6. **Add and Commit Changes:**
+
    - Make your code changes, add them, and commit them:
      ```bash
      git add .
@@ -58,6 +63,7 @@
 ## Sync Your Fork with the Original Repository
 
 9. **Fetch and Merge Upstream Changes:**
+
    - Fetch the latest changes from the original repository:
      ```bash
      git fetch upstream
@@ -69,13 +75,15 @@
      ```
 
 10. **Update Your Fork on GitHub:**
-   - Push the merged changes to your fork on GitHub:
-     ```bash
-     git push origin main
-     ```
+
+- Push the merged changes to your fork on GitHub:
+  ```bash
+  git push origin main
+  ```
 
 ## Collaborative Input
 
-| Date | Username | Input | Comment |
-| -- | -- | -- | -- |
-| 04.09.2023 | GeorginaCarlisle | Added this table to the readme. Added and linked style.css file | Really nice clear instructions and great communication for Kasia. Thank you for the chance to practice. |
+| Date       | Username         | Input                                                                | Comment                                                                                                 |
+| ---------- | ---------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 04.09.2023 | GeorginaCarlisle | Added this table to the readme. Added and linked style.css file      | Really nice clear instructions and great communication for Kasia. Thank you for the chance to practice. |
+| 04.09.2023 | ShaneDoyle       | Added myself to this readme table. Added bootstrap responsive navbar | Enjoyed the process, nice to finally get a chance to practise this for myself!                          |
