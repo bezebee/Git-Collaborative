@@ -1,4 +1,16 @@
-# Git Collaborative
+
+# Collaborative Input
+- Fill out Date, Username and a short Comment on this experience, and proceed with submitting the PR
+
+| Date       | Username         |  Comment                                                                                                 |
+| ---------- | ---------------- |  ------------------------------------------------------------------------------------------------------- |
+| 04/09/2023 | GeorginaCarlisle |  Really nice clear instructions and great communication for Kasia. Thank you for the chance to practice. |
+| 05/09/2023 | ShaneDoyle       |  Enjoyed the process, nice to finally get a chance to practise this for myself!                          |
+
+
+
+
+# Git Collaborative Steps
 
 [Slides here](https://app.box.com/s/r356kxmp3yiwa96evgmpera7il9t4xyg)
 
@@ -81,9 +93,3 @@
   git push origin main
   ```
 
-## Collaborative Input
-
-| Date       | Username         | Input                                                                | Comment                                                                                                 |
-| ---------- | ---------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 04.09.2023 | GeorginaCarlisle | Added this table to the readme. Added and linked style.css file      | Really nice clear instructions and great communication for Kasia. Thank you for the chance to practice. |
-| 04.09.2023 | ShaneDoyle       | Added myself to this readme table. Added bootstrap responsive navbar | Enjoyed the process, nice to finally get a chance to practise this for myself!                          |
