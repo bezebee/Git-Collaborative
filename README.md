@@ -1,5 +1,3 @@
-*"How did this happen?"*, says Sam on a regular basis!
-
 # Collaborative Input
 - Fill out Date, Username and a short Comment on this experience, and proceed with submitting the PR
 
@@ -8,7 +6,7 @@
 | 04/09/2023 | GeorginaCarlisle |  Really nice clear instructions and great communication for Kasia. Thank you for the chance to practice. |
 | 05/09/2023 | ShaneDoyle       |  Enjoyed the process, nice to finally get a chance to practice this for myself!                          |
 | 05/09/2023 | inc21            |  Really enjoying playing around here and getting more comfortable with this. Thanks Kasia!!              |
-
+| 13/09/2023 | SamOBrienOlinger |  Thanks Kasia! A lot learnt from you today.                                                              |
 
 
 # Git Collaborative Steps
