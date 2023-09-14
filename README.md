@@ -9,6 +9,7 @@
 | 05/09/2023 | ShaneDoyle       |  Enjoyed the process, nice to finally get a chance to practice this for myself!                          |
 | 05/09/2023 | inc21            |  Really enjoying playing around here and getting more comfortable with this. Thanks Kasia!!              |
 | 13/09/2023 | SamOBrienOlinger |  Thanks Kasia! A lot learnt from you today.                                                              |
+| 14/09/2023 | URiem | Thanks for this little GitHub lesson, Kasia! Still trying to wrap my head around what exactly happened in the background as I was completing all these step. I am sure it will click eventually. It's very useful to know! |
 
 
 # Git Collaborative Steps
