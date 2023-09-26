@@ -10,6 +10,7 @@
 | 05/09/2023 | inc21            |  Really enjoying playing around here and getting more comfortable with this. Thanks Kasia!!              |
 | 13/09/2023 | SamOBrienOlinger |  Thanks Kasia! A lot learnt from you today.                                                              |
 | 14/09/2023 | URiem | Thanks for this little GitHub lesson, Kasia! Still trying to wrap my head around what exactly happened in the background as I was completing all these step. I am sure it will click eventually. It's very useful to know! |
+| 26/9/2023  | URiem | Learn and Repeat the process using VSCode - always learning something new! Thanks for all the help!! |
 
 
 # Git Collaborative Steps
