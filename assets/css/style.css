@@ -18,6 +18,7 @@ h1 {
     bottom: 5vh;
     right: 5vh;
     animation: fade 5s steps(20,end) infinite;
+    text-align: right;
 }
 
 /* Animation for fading text effect */
