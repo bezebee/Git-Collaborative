@@ -1,19 +1,18 @@
-
-
 # Collaborative Input
+
 - Fill out Date, Username and a short Comment on this experience, and proceed with submitting the PR
 
-| Date       | Username         |  Comment                                                                                                 |
-| ---------- | ---------------- |  ------------------------------------------------------------------------------------------------------- |
-| 05/10/2023 | JWalshe86        |  Forking great stuff Kaisa, thanks for this.
-| 04/09/2023 | GeorginaCarlisle |  Really nice clear instructions and great communication for Kasia. Thank you for the chance to practice. |
-| 05/09/2023 | ShaneDoyle       |  Enjoyed the process, nice to finally get a chance to practice this for myself!                          |
-| 05/09/2023 | inc21            |  Really enjoying playing around here and getting more comfortable with this. Thanks Kasia!!              |
-| 13/09/2023 | SamOBrienOlinger |  Thanks Kasia! A lot learnt from you today.                                                              |
-| 14/09/2023 | URiem | Thanks for this little GitHub lesson, Kasia! Still trying to wrap my head around what exactly happened in the background as I was completing all these step. I am sure it will click eventually. It's very useful to know! |
-| 26/9/2023  | URiem | Learn and Repeat the process using VSCode - always learning something new! Thanks for all the help!! |
-| 02/10/2023 | NiclO1337        |  Thanks for opportunity to try this and learn!                                                           |
-
+| Date       | Username         | Comment                                                                                                                                                                                                                    |
+| ---------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 05/10/2023 | JWalshe86        | Forking great stuff Kaisa, thanks for this.                                                                                                                                                                                |
+| 04/09/2023 | GeorginaCarlisle | Really nice clear instructions and great communication for Kasia. Thank you for the chance to practice.                                                                                                                    |
+| 05/09/2023 | ShaneDoyle       | Enjoyed the process, nice to finally get a chance to practice this for myself!                                                                                                                                             |
+| 05/09/2023 | inc21            | Really enjoying playing around here and getting more comfortable with this. Thanks Kasia!!                                                                                                                                 |
+| 13/09/2023 | SamOBrienOlinger | Thanks Kasia! A lot learnt from you today.                                                                                                                                                                                 |
+| 14/09/2023 | URiem            | Thanks for this little GitHub lesson, Kasia! Still trying to wrap my head around what exactly happened in the background as I was completing all these step. I am sure it will click eventually. It's very useful to know! |
+| 26/9/2023  | URiem            | Learn and Repeat the process using VSCode - always learning something new! Thanks for all the help!!                                                                                                                       |
+| 02/10/2023 | NiclO1337        | Thanks for opportunity to try this and learn!                                                                                                                                                                              |
+| 09/10/2023 | Zaicodes         | Thank you for helping us practice this, still not 100% confident but I'm sure the Hackathon will help a lot.                                                                                                               |
 
 # Git Collaborative Steps
 
@@ -97,4 +96,3 @@
   ```bash
   git push origin main
   ```
-
