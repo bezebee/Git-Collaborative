@@ -39,10 +39,7 @@
      ```bash
      git clone https://github.com/insert-your-username-here/Git-Collaborative.git
      ```
-   - Navigate to Your Repository:
-     ```bash
-     cd projectName
-     ```
+
 
 4. **Set Upstream Remote:**
    - Add an upstream remote to your repository to track the original repository:
