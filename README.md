@@ -15,6 +15,7 @@
 | 09/10/2023 | Zaicodes         | Thank you for helping us practice this, still not 100% confident but I'm sure the Hackathon will help a lot.                                                                                                               |
 | 12/10/2023 | Kiksgold         | Thank you Kasia for your help. I look forward to the next hackathon.                                                                                                                                                       |
 | 12/10/2023 | SharjAhmed       | Thanks for this lesson Kasia! Looking forward to the Hackathon!                                                                                                                                                            |
+| 12/10/2023 | johnamdickson       | Not taking part in October Hackathon but appreicate the tutorial on GitHub. Thanks Kaisa!                                                                                                                                                          |
 
 # Git Collaborative Steps
 
