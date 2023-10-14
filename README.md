@@ -16,7 +16,7 @@
 | 12/10/2023 | Kiksgold         | Thank you Kasia for your help. I look forward to the next hackathon.                                                                                                                                                       |
 | 12/10/2023 | SharjAhmed       | Thanks for this lesson Kasia! Looking forward to the Hackathon!                                                                                                                                                            |
 | 12/10/2023 | johnamdickson       | Not taking part in October Hackathon but appreicate the tutorial on GitHub. Thanks Kaisa!                                                                                                                                                           |
-
+| 14/10/2023 | patthoege       | First time doing a fork, clone and create a new branch by myself successfully! Thanks Kasia! Hope next time that I'm not slowing down my team with it >.<                                                                                                                                                     |
 # Git Collaborative Steps
 
 [Slides here](https://app.box.com/s/r356kxmp3yiwa96evgmpera7il9t4xyg)
