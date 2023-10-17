@@ -20,7 +20,7 @@
 | 12/10/2023 | johnamdickson       | Not taking part in October Hackathon but appreicate the tutorial on GitHub. Thanks Kaisa!                                                                                                                                                           |
 | 14/10/2023 | patthoege       | First time doing a fork, clone and create a new branch by myself successfully! Thanks for the help and practice Kasia!                                                                                                                   |
 | 17/10/2023 | ajmmcredie       | Thank you for the pre-Hackathon practise Kasia!                                                                                                                   |
-|  |        |                                                                                                                   |
+| 17/10/2023   | NikolettaGr     |  Thank you Kasia for this opportunity!                                                                                                                 |
 |  |        |                                                                                                                   |
 |  |        |                                                                                                                   |
 |  |        |                                                                                                                   |
