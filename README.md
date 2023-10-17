@@ -46,22 +46,15 @@
    - Click the "Fork" button on the upper right corner of the repository page. This creates your own copy of this repository.
 
 2. **Clone Your Fork**:
-
-- VS Code - Create Folder,
-- CodeAnywhere - click on the **purple button**
-- Gitpod - click on the **green button**
-
-3. **On VS Code**:
-
+- **CodeAnywhere** - click on the **purple button**
+- **Gitpod** - click on the **green button**
+- **On VS Code** - **create folder** and then:
    - On your local machine, open a terminal.
    - Navigate to the folder where you want to clone the repository.
    - Clone your fork using the HTTPS URL:
      ```bash
-     git clone https://github.com/**insert-your-username-here**/Git-Collaborative.git
+     git clone https://github.com/insert-your-username-here/Git-Collaborative.git
      ```
-
-
-4. **Set Upstream Remote (only VS Code):**
    - Add an upstream remote to your repository to track the original repository:
      ```bash
      git remote add upstream https://github.com/bezebee/Git-Collaborative.git
@@ -69,14 +62,14 @@
 
 ## Make and Push Your Changes
 
-5. **Create a New Branch:**
+3. **Create a New Branch:**
 
    - Create a new branch in your local repository to work on your changes:
      ```bash
      git checkout -b your-branch-name
      ```
 
-6. **Add and Commit Changes:**
+4. **Add and Commit Changes:**
 
    - Make your code changes, add them, and commit them:
      ```bash
@@ -84,7 +77,7 @@
      git commit -m "Your commit message"
      ```
 
-7. **Push Your Changes to Your Fork:**
+5. **Push Your Changes to Your Fork:**
    - Push your local branch with the committed changes to your forked repository on GitHub:
      ```bash
      git push origin your-branch-name
@@ -92,13 +85,13 @@
 
 ## Create a Pull Request
 
-8. **Create a Pull Request:**
+6. **Create a Pull Request:**
    - After pushing your changes to your fork, follow link from the Terminal to create a pull request
    - Once PR created and merged, come back to the README to see what to do next
 
 ## Sync Your Fork with the Original Repository
 
-9. **Fetch and Merge Upstream Changes:**
+7. **Fetch and Merge Upstream Changes:**
 
    - Fetch the latest changes from the original repository:
      ```bash
@@ -110,7 +103,7 @@
      git merge upstream/main
      ```
 
-10. **Update Your Fork on GitHub:**
+8. **Update Your Fork on GitHub:**
 
 - Push the merged changes to your fork on GitHub:
   ```bash
