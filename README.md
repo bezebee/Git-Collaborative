@@ -1,7 +1,7 @@
 # Collaborative Input
 
 <details>
-<summary> 👇👇👇 Fill out Date, Username and a short Comment on this experience, and proceed with submitting the PR 👇👇👇 </summary>
+<summary> 👇 Fill out Date, Username and a short Comment on this experience, and proceed with submitting the PR 👇 </summary>
 <br>
 
 | Date       | Username         | Comment                                                                                                                                                                                                                    |
@@ -35,7 +35,7 @@
 
 </details>
 
-# Git Collaborative Steps
+# Git Collaborative Steps for VS Code
 
 [Slides here](https://app.box.com/s/r356kxmp3yiwa96evgmpera7il9t4xyg)
 
@@ -47,8 +47,9 @@
 
 2. **Clone Your Fork**:
 
-- Create folder with VS Code,
-- Or just click the Green/Purple button with Cloud IDEs
+- VS Code - Create Folder,
+- CodeAnywhere - click on the **purple button**
+- Gitpod - click on the **green button**
 
 3. **On VS Code**:
 
@@ -56,11 +57,11 @@
    - Navigate to the folder where you want to clone the repository.
    - Clone your fork using the HTTPS URL:
      ```bash
-     git clone https://github.com/insert-your-username-here/Git-Collaborative.git
+     git clone https://github.com/**insert-your-username-here**/Git-Collaborative.git
      ```
 
 
-4. **Set Upstream Remote:**
+4. **Set Upstream Remote (only VS Code):**
    - Add an upstream remote to your repository to track the original repository:
      ```bash
      git remote add upstream https://github.com/bezebee/Git-Collaborative.git
@@ -93,6 +94,7 @@
 
 8. **Create a Pull Request:**
    - After pushing your changes to your fork, follow link from the Terminal to create a pull request
+   - Once PR created and merged, come back to the README to see what to do next
 
 ## Sync Your Fork with the Original Repository
 
