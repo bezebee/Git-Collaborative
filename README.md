@@ -17,21 +17,19 @@
 | 09/10/2023 | Zaicodes         | Thank you for helping us practice this, still not 100% confident but I'm sure the Hackathon will help a lot.                                                                                                               |
 | 12/10/2023 | Kiksgold         | Thank you Kasia for your help. I look forward to the next hackathon.                                                                                                                                                       |
 | 12/10/2023 | SharjAhmed       | Thanks for this lesson Kasia! Looking forward to the Hackathon!                                                                                                                                                            |
-| 12/10/2023 | johnamdickson       | Not taking part in October Hackathon but appreicate the tutorial on GitHub. Thanks Kaisa!                                                                                                                                                           |
-| 14/10/2023 | patthoege       | First time doing a fork, clone and create a new branch by myself successfully! Thanks for the help and practice Kasia!                                                                                                                   |
-| 17/10/2023 | ajmmcredie       | Thank you for the pre-Hackathon practise Kasia!                                                                                                                   |
-| 17/10/2023   | NikolettaGr     |  Thank you Kasia for this opportunity!                                                                                                                 |
-|  |        |                                                                                                                   |
-|  |        |                                                                                                                   |
-|  |        |                                                                                                                   |
-|  |        |                                                                                                                   |
-|  |        |                                                                                                                   |
-|  |        |                                                                                                                   |
-|  |        |                                                                                                                   |
-|  |        |                                                                                                                   |
-|  |        |                                                                                                                   |
-
-
+| 12/10/2023 | johnamdickson    | Not taking part in October Hackathon but appreicate the tutorial on GitHub. Thanks Kaisa!                                                                                                                                  |
+| 14/10/2023 | patthoege        | First time doing a fork, clone and create a new branch by myself successfully! Thanks for the help and practice Kasia!                                                                                                     |
+| 17/10/2023 | ajmmcredie       | Thank you for the pre-Hackathon practise Kasia!                                                                                                                                                                            |
+| 17/10/2023 | NikolettaGr      | Thank you Kasia for this opportunity!                                                                                                                                                                                      |
+| 30/10/2023 | llancruzz        | Thanks for the help and practice Kasia                                                                                                                                                                                     |
+|            |                  |                                                                                                                                                                                                                            |
+|            |                  |                                                                                                                                                                                                                            |
+|            |                  |                                                                                                                                                                                                                            |
+|            |                  |                                                                                                                                                                                                                            |
+|            |                  |                                                                                                                                                                                                                            |
+|            |                  |                                                                                                                                                                                                                            |
+|            |                  |                                                                                                                                                                                                                            |
+|            |                  |                                                                                                                                                                                                                            |
 
 </details>
 
@@ -46,19 +44,20 @@
    - Click the "Fork" button on the upper right corner of the repository page. This creates your own copy of this repository.
 
 2. **Clone Your Fork**:
+
 - **CodeAnywhere** - click on the **purple button**
 - **Gitpod** - click on the **green button**
 - **On VS Code** - **create folder** and then:
-   - On your local machine, open a terminal.
-   - Navigate to the folder where you want to clone the repository.
-   - Clone your fork using the HTTPS URL:
-     ```bash
-     git clone https://github.com/insert-your-username-here/Git-Collaborative.git
-     ```
-   - Add an upstream remote to your repository to track the original repository:
-     ```bash
-     git remote add upstream https://github.com/bezebee/Git-Collaborative.git
-     ```
+  - On your local machine, open a terminal.
+  - Navigate to the folder where you want to clone the repository.
+  - Clone your fork using the HTTPS URL:
+    ```bash
+    git clone https://github.com/insert-your-username-here/Git-Collaborative.git
+    ```
+  - Add an upstream remote to your repository to track the original repository:
+    ```bash
+    git remote add upstream https://github.com/bezebee/Git-Collaborative.git
+    ```
 
 ## Make and Push Your Changes
 
