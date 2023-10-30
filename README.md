@@ -33,11 +33,11 @@
 
 </details>
 
-# Git Collaborative Steps for VS Code
+# Git Collaborative Visual Steps for VS Code
 
 [Slides here](https://app.box.com/s/r356kxmp3yiwa96evgmpera7il9t4xyg)
 
-## Fork, Clone, and Sync Your Fork
+# Fork, Clone, and Sync Your Fork
 
 1. **Fork the Repository:**
 
@@ -59,7 +59,7 @@
     git remote add upstream https://github.com/bezebee/Git-Collaborative.git
     ```
 
-## Make and Push Your Changes
+# Make and Push Your Changes
 
 3. **Create a New Branch:**
 
@@ -82,13 +82,13 @@
      git push origin your-branch-name
      ```
 
-## Create a Pull Request
+# Create a Pull Request
 
 6. **Create a Pull Request:**
    - After pushing your changes to your fork, follow link from the Terminal to create a pull request
    - Once PR created and merged, come back to the README to see what to do next
 
-## Sync Your Fork with the Original Repository
+# Sync Your Fork with the Original Repository
 
 7. **Fetch and Merge Upstream Changes:**
 
